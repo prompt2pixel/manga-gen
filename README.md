@@ -1,0 +1,2 @@
+# manga-gen
+not pandu
